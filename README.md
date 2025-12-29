@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Gowtham Kishore
 
-<!--
-**heyitsgowtham/heyitsgowtham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer  
+🚀 React | Redux | Node.js | Express | MongoDB  
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔭 Currently working on MERN stack projects
+- 🌱 Learning advanced React & backend architecture
+- 💬 Ask me about React, Redux, Node.js
+- 📫 Reach me at: yourmail@gmail.com
+
+---
+
+## 🛠 Tech Stack
+**Frontend:** React, Redux, Tailwind CSS  
+**Backend:** Node.js, Express  
+**Database:** MongoDB  
+**Tools:** Git, GitHub, VS Code
+
+---
+
+## 📂 Projects
+- 🛒 eCommerce App
+- 💬 Real-time Chat Application
+- 🔐 Authentication System (JWT + Redux)
+
+---
+
+## 🤝 Connect with Me
+- GitHub: https://github.com/heyitsgowtham
+- LinkedIn: (add later)
+
