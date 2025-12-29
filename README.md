@@ -16,7 +16,6 @@
 - 🔭 Currently working on **React, Redux & Full Stack projects**
 - 🌱 Learning **advanced React patterns & backend architecture**
 - 💬 Ask me about **React, Redux, Node.js, Express**
-- 📫 Reach me at: **yourmail@gmail.com**
 - ⚡ Fun fact: I love turning coffee into code ☕➡️💻
 
 ---
