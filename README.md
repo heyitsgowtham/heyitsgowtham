@@ -24,8 +24,6 @@
 
 ## 📂 Projects
 - 🛒 eCommerce App
-- 💬 Real-time Chat Application
-- 🔐 Authentication System (JWT + Redux)
 
 ---
 
