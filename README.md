@@ -45,32 +45,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 🛒 eCommerce Web App
-**Full-stack online shopping platform**
-- Built with React, Redux, Node.js, Express & MongoDB
-- Features: User authentication, product catalog, shopping cart, payment integration
-- RESTful API with JWT authentication
-
-### 💬 Real-Time Chat Application
-**Live messaging platform**
-- Real-time communication using Socket.IO
-- React frontend with responsive design
-- Node.js backend with MongoDB persistence
-
-### 🔐 Authentication System
-**Secure user management system**
-- JWT-based authentication & authorization
-- Password hashing with bcrypt
-- Redux state management for user sessions
-- Protected routes & role-based access control
-
-👉 **Check my repositories for full source code** 👇  
-[https://github.com/heyitsgowtham](https://github.com/heyitsgowtham)
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
